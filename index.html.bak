@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang=pr-br>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	concert=width=devace-width initial-scale=1.0>
+	<link rel="shortcut icon" href="ico.png" type="image/x-icon" />
+	<title>Tooq - Talilo Tarlison</title> <!--titulo da pagina -->
+		<style type="text/css"> 
+
+			* {margin: 0px 0px 0px 0px;
+			}
+
+			body { text-align: center;
+				background color: gray;
+			float:center;
+
+			}
+			body { font-family:  Hermit, sans-serif;
+			font-variant-caps: ;
+			}
+
+			.perfil { text-align: center;
+			float:center;
+			color:  black;
+			background-image: linear-gradient(#d3d3d3,#e9e9e9,#ffffff);
+			border-bottom: solid #ffffff;}
+
+			.floter {background-image: linear-gradient(#e9e9e9,#ffffff)}
+
+			.redes { text-align: center;
+			float:center;
+			overflow:  hidden;
+
+		
+			}
+			.redes img {
+				max-width:100% ;
+				-moz-transition: all 0.2s;
+				-webkit-transition: all 0.2s;
+				transition: all 0.2s;
+
+
+			}
+			.redes:hover img {
+
+				-moz-transform: scale(0.9);
+				-webkit-transform: scale(0.9);
+				transform: scale(0.9);
+			}
+			#nome {text-align: center;
+				
+				margin:  20px 0px 50px 0px ;
+			}
+			h2 { margin: 0px 0px 0px 0px }	
+
+			}
+			p { margin: 0px 0px 0px 0px }	
+
+			}
+
+		</style>
+</head>
+<body>
+	<header> 
+	<div class="perfil">
+		<img src="perfil.png" title="Talilo Tarlison" alt="Talilo Tarlison" width="300" height="300">
+	</div>
+	<div id="nome">
+				<h2> Talilo Tarlison </h2> 
+				<p> <font color="gray"><strong>Minhas Informações:</strong></font><br> <font color="gray">Telefone: +5586981318021 </font></p> 
+				<p> <font color="gray">linktr.ee/talilo.tarlison</font></p> 
+			</div>
+	</div>
+	<div class="redes">
+		<a href="https://www.facebook.com/talilo.tarlison"><img src="face.jpg" title="Facebook" alt="Facebook" width="200"></a>
+		<a href="http://instagram.com/talilo_tarlison"><img src="insta.jpg" title="Instgran" alt="Intagran" width="200"> </a><br>
+		<a href="https://wa.me/qr/CTJZBSCIOHRHL1><img"><img src="wts.jpg" title="Whatsapp" alt="Whatsapp" width="200"> </a>
+		<a href="http://twitter.com/talilo_tarlison"><img src="twitter.jpg" title="Twitter" alt="Twitter" width="200"> </a><br>
+		<a href="https://www.linkedin.com/in/talilo-tarlison"><img src="link.png" title="Linkdin" alt="Linkedin" width="200"> </a>
+		<a href="#"><img src="pix.jpeg" title="Pix" alt="Pix" width="200"> </a><br>
+		<a href="#"><img src="pp.jpg" title="Paypal" alt="Paypal" width="200"> </a>
+		<a href="#"><img src="picpay.jpg" title="Picpay" alt="Picpay" width="200"> </a>
+	</div>
+</header>
+<div class="floter">
+<floter><i><font color="gray">Todos diretos reservados</font> <i><a href="#">Tooq</a>.</floter>
+</div>
+
+</body>
+</html>
+
+		
