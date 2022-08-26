@@ -16,4 +16,4 @@
 
 ## 🏷️ Detalhes do projeto.
 
-### Temtei fazer um copia do Tooq, um site de informações pessoais com vários links de contato feito com html e css.
+### Tentei fazer uma clia do Tooq, um site de informações pessoais com vários links de contato feito com html e css.
