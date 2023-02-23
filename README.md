@@ -18,4 +18,6 @@
 
 ### Tentei fazer uma cópia do Tooq, um site de informações pessoais com vários links de contato feito com html e css.
 
-### copia-do-tooq
+### Clone do Tooq.
+- HTML
+- CSS
